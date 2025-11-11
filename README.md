@@ -4,8 +4,6 @@ I'm a **Senior Software Engineer**, experience building scalable and innovative 
 
 I love building efficient microservices and improving data processing speeds. I’ve successfully reduced UI development time by **45%** and improved processing speeds by **40%** in previous projects.
 
-## My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=au-syntaxwhiz&layout=compact&theme=github_dark&card_width=1000)
 
 ## Technologies & Skills
 
