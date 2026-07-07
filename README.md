@@ -13,19 +13,6 @@ My primary focus is designing high-performance backend systems, microservices, a
 - 🎨 Reduced frontend development time by **45%** through reusable component architecture
 - ☁️ Experienced with AWS, Docker, Kubernetes, CI/CD, and modern cloud infrastructure
 - 🤖 Interested in AI, LLMs, distributed systems, and data-intensive applications
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sudo-infinity&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-infinity&layout=compact&theme=github_dark" />
-</p>
-
 ---
 
 # Tech Stack
